@@ -1,0 +1,22 @@
+{
+  "name": "fileicon-svg",
+  "version": "1.0.0",
+  "description": "npm package for svg file icons.",
+  "main": null,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NJUPTAAA/fileicon-svg.git"
+  },
+  "keywords": [
+    "fileicon","svg"
+  ],
+  "author": "zsgsdesign",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NJUPTAAA/fileicon-svg/issues"
+  },
+  "homepage": "https://github.com/NJUPTAAA/fileicon-svg",
+}
