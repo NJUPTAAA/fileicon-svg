@@ -1,0 +1,13 @@
+{
+    "name": "fonts-asset/fileicon",
+    "description": "fonts asset fileicon",
+    "type": "fonts-asset",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zsgsdesign",
+            "email": "zsgsdesign@gmail.com"
+        }
+    ],
+    "require": {}
+}
